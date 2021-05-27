@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=100&section=header&text=Hi!%20I'm younyi&fontSize=50&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=150&section=header&text=Hi!%20I'm younyi&fontSize=50&fontColor=fff" />
 
 <h3 align="center">✏️Tech Stack✏️</h3>
 <p align="center">
