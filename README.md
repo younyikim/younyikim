@@ -1,22 +1,49 @@
-### Hi there 👋
+## Younyi kim 🌈
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Younyi!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=ffffff)
+<a href="mailto:rlakuku1221@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlakuku1221@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+[![Instagram Badge](https://img.shields.io/badge/yenoexiste-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yenoexiste) 
+[![Velog Badge](http://img.shields.io/badge/-VELOG-20c997?style=flat&link=https://velog.io/@younyikim)](https://velog.io/@younyikim)
+ [![GitHub followers](https://img.shields.io/github/followers/younyikim?label=Follow&style=social)](https://github.com/younyikim/?tab=follow)
 
-<h3 align="center">✏️Tech Stack✏️</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-  <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
-</p> 
+### About Me
+
+* 📚  &nbsp; <b>Currently Learning</b> : React, Alogithm, CSS Animation
+
+### Exprience  
+* 🏫     &nbsp; Dongduk Women's University, Computer Science (2018.3 ~ )
+* 💻     &nbsp; 대학생 연합 벤처 동아리 SOPT 29th - Web Part (2021.9 ~ )
 
 <br>
-<h3 align="center">🚀Contact🚀</h3>
 
-<p align="center">
- <a href="mailto:rlakuku1221@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rlakuku1221@gmail.com"/></a>
+### Languages and Tools
+
+<p align="left">
+
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+  
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+  
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+<br>
+<div>
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghddl1123">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=younyikim" height="165">
+ </div>
+
+
+
+
+
 <!--
 **younyikim/younyikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
