@@ -5,9 +5,21 @@
 [![Velog Badge](http://img.shields.io/badge/-VELOG-20c997?style=flat&link=https://velog.io/@younyikim)](https://velog.io/@younyikim)
  [![GitHub followers](https://img.shields.io/github/followers/younyikim?label=Follow&style=social)](https://github.com/younyikim/?tab=follow)
 
-### About Me
+🙌  &nbsp; Hi there! I'm <b>Web Front-end developer</b> usually using `JavaScript` & `React` .   
+   
+    
+<br>
+I enjoying developing something, drama and Coffee ☕️.     
 
-* 📚  &nbsp; <b>Currently Learning</b> : React, Alogithm, CSS Animation
+I'm interested in <b><i>Interactive Web</i></b> and <b><i>Functional Programming</i></b>! 💻   
+
+<br>
+I hope to be a Front-end Developer who makes people happy.🌈 
+   
+
+#### 📚 <b>Currently Learning</b> : React, Alogithm, CSS Animation
+
+<hr>
 
 ### Exprience  
 * 🏫     &nbsp; Dongduk Women's University, Computer Science (2018.3 ~ )
@@ -36,7 +48,8 @@
 </p>
 <br>
 
-  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghddl1123">
+### Github Stat
+<!--   <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghddl1123"> -->
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=younyikim" height="165">
  
 
