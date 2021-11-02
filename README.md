@@ -5,18 +5,11 @@
 [![Velog Badge](http://img.shields.io/badge/-VELOG-20c997?style=flat&link=https://velog.io/@younyikim)](https://velog.io/@younyikim)
  [![GitHub followers](https://img.shields.io/github/followers/younyikim?label=Follow&style=social)](https://github.com/younyikim/?tab=follow)
 
-🙌  &nbsp; Hi there! I'm <b>Web Front-end developer</b> usually using `JavaScript` & `React` .   
+🙌  &nbsp; Hi there!  <b>Web Front-end developer</b> 개발자 김연이입니다.   
+`JavaScript` & `React`를  주로 사용하고, 좋아합니다! 🥰 
    
-    
-<br>
-I enjoying developing something, drama and Coffee ☕️.     
-
-I'm interested in <b><i>Interactive Web</i></b> and <b><i>Functional Programming</i></b>! 💻   
-
-<br>
-I hope to be a Front-end Developer who makes people happy.🌈 
    
-
+  
 #### 📚 <b>Currently Learning</b> : React, Alogithm, CSS Animation
 
 <hr>
