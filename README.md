@@ -5,13 +5,6 @@
 [![Velog Badge](http://img.shields.io/badge/-VELOG-20c997?style=flat&link=https://velog.io/@younyikim)](https://velog.io/@younyikim)
  [![GitHub followers](https://img.shields.io/github/followers/younyikim?label=Follow&style=social)](https://github.com/younyikim/?tab=follow)
 
-🙌  &nbsp; Hi there!  <b>Web Front-end developer</b> 개발자 김연이입니다.   
-`JavaScript` & `React`를  주로 사용하고, 좋아합니다! 🥰 
-   
-   
-  
-#### 📚 <b>Currently Learning</b> : React, Alogithm, CSS Animation
-
 <hr>
 
 ### Exprience  
@@ -31,6 +24,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="react" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="react" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="react" height="40" style="vertical-align:top; margin:4px">
   
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="react" height="40" style="vertical-align:top; margin:4px">
