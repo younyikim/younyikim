@@ -1,15 +1,15 @@
 ## Younyi kim 🌈
 
 <a href="mailto:rlakuku1221@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlakuku1221@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-[![Instagram Badge](https://img.shields.io/badge/yenoexiste-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yenoexiste) 
 [![Velog Badge](http://img.shields.io/badge/-VELOG-20c997?style=flat&link=https://velog.io/@younyikim)](https://velog.io/@younyikim)
  [![GitHub followers](https://img.shields.io/github/followers/younyikim?label=Follow&style=social)](https://github.com/younyikim/?tab=follow)
 
 <hr>
 
 ### Exprience  
-* 🏫     &nbsp; Dongduk Women's University, Computer Science (2018.3 ~ )
-* 💻     &nbsp; 대학생 연합 벤처 동아리 SOPT 29th - Web Part (2021.9 ~ )
+*  Dongduk Women's University, Computer Science (2018.03 ~ )
+*  대학생 연합 벤처 동아리 SOPT 29th - Web Part (2021.09 ~ 2022.02)
+*  Developement intern in Hayanmind (2022.03 ~)
 
 <br>
 
@@ -35,26 +35,3 @@
 </p>
 <br>
 
-### Github Stat
-<!--   <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghddl1123"> -->
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=younyikim" height="165">
- 
-
-
-
-
-
-<!--
-**younyikim/younyikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
