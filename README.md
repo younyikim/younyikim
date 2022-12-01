@@ -7,7 +7,7 @@
 <hr>
 
 ### Exprience  
-*  Dongduk Women's University, Computer Science (2018.03 ~ )
+*  Dongduk Women's University, Computer Science (2018.03 ~ 2023.02)
 *  대학생 연합 벤처 동아리 SOPT 29th - Web Part (2021.09 ~ 2022.02)
 *  Developement intern in Hayanmind Inc(2022.03 ~)
 
