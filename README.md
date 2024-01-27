@@ -7,9 +7,9 @@
 <hr>
 
 ### Exprience  
-*  Dongduk Women's University, Computer Science (2018.03 ~ 2023.02)
+*  하얀마인드, 프론트엔드 인턴([@hayanmind](https://github.com/hayanmind))(2022.03 ~ 2022.12)
+*  동덕여자대학교, 컴퓨터학과 졸업 (2018.03 ~ 2023.02)
 *  대학생 연합 벤처 동아리 SOPT 29th - Web Part (2021.09 ~ 2022.02)
-*  Frontend intern in Hayanmind([@hayanmind](https://github.com/hayanmind)) Inc(2022.03 ~ 2022.12)
 
 <br>
 
