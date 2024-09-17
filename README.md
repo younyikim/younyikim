@@ -6,20 +6,13 @@
   <a href="mailto:rlakuku1221@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlakuku1221@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-### 👩‍💻 About Me
+### About Me
 <p>
-  👋&nbsp; 안녕하세요! 저는 1년차 <b>프론트엔드 개발자</b> 김연이입니다.🚀<br/>
+  👋&nbsp; 안녕하세요! 저는 <b>프론트엔드 개발자</b> 김연이입니다.🚀<br/>
 </p>
 
 
-### 🏢 Work Experience
-| Date | Position | Work |
-| ---- | ---- | ----|
-| 2023.06 - 2024.03 | Frontend Developer | 코드크레인 |
-| 2022.03 - 2022.12 | Frontend Developer Intern | 하얀마인드 |
-
-
-### 💪 Skills
+### Skills
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
